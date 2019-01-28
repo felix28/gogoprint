@@ -42,6 +42,7 @@ This app uses Laravel 5.6 so you need to have the following requirements before 
     <li>Moment (A javascript plugin. I use this for displaying updated delivery dates in table header)</li>
     <li>W3.CSS (Like Bootstrap framework but this one has no jQuery)</li>
     <li>JavaScript / EcmaScript</li>
+    <li>Postman (For looking API Endpoints)</li>
 </ul>
 
 <h5>Feel free to ask me via email if you have question. Thanks :)</h5>
